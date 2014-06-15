@@ -26,7 +26,7 @@
 			border:1px solid #000;
 		}
 	</style>
-	this is a test
+
 </head>
 <body>
 	<canvas id="main" width="800" height="400"></canvas>
